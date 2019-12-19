@@ -100,13 +100,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.127.193.203:8081/repository/dhurva-release/</url>
+	      <url>http://13.233.93.217:8081/repository/3//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.127.193.203:8081/repository/maven-snapshots/</url>
+	      <url>http://13.233.93.217:8081/repository/3-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
