@@ -101,14 +101,14 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.235.31.68:8081/repository/new2020release/</url>
+	      <url>http://52.66.123.160:8081/repository/AASURAN/</url>
 	    </repository>
 		
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.235.31.68:8081/repository/new2020snapshot/</url>
+	      <url>http://52.66.123.160:8081/repository/AASURANsnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
